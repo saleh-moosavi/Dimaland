@@ -16,7 +16,7 @@ export default function Navbar() {
           پیشنهاد ویژه
         </button>
       </section>
-      <nav className="flex justify-between items-center mx-20 my-5" dir="rtl">
+      <nav className="flex justify-between items-center px-20 py-5 bg-white">
         <article className="flex items-center justify-center gap-x-5">
           <ul className="flex items-center gap-x-10 font-semibold *:cursor-pointer hover:*:text-blue-600 *:transition-all *:duration-300">
             <li>صفحه اصلی</li>
